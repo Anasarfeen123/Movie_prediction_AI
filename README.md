@@ -20,5 +20,14 @@ Using skitlearn's model, we directly used Logistic regression model and added ma
 ## Precting and accuracy
 Using skitlearn's model, we try to predict using Logistic regression model and thus try to accuracy percentage!
 
----
+## Confusion Matrix
+This matrix shows how many prediction are true positives, false positives, true negatives and false negatives by the logistic reggression model used.
+Here labels are made such that 1 -> positive and 0 -> negative.
 
+## Sentiment Distribution 
+Checking the count of positives and negative sentiments.
+
+## Frequency Distribution 
+Checking the count of frequent words used.
+
+---
